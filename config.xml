@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://yourdomain/dasdasdasd" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="gcNNUggic2.dasdasdasd" package="gcNNUggic2" required_version="2.4"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="sports.png" height="117" width="117"/>
+    <name>ScoreBoard</name>
+    <tizen:profile name="mobile"/>
+</widget>
